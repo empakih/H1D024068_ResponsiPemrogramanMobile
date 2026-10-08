@@ -6,7 +6,7 @@ Aplikasi Android untuk eksplorasi data Digimon dari Digi-API yang dikembangkan m
 
 | Home Screen | Detail Screen |
 | :---: | :---: |
-| *(Tangkapan layar HomeScreen)* | *(Tangkapan layar DetailScreen)* |
+|<img width="50%" alt="home" src="https://github.com/user-attachments/assets/9ab5b01e-6a13-4cde-8d95-d4e471e62984" />| <img width="50%" alt="detail" src="https://github.com/user-attachments/assets/badcd24c-1ccb-4671-8a7e-49010f290fda" />|
 
 ## Penjelasan Teknis
 
