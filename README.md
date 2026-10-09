@@ -1,4 +1,5 @@
 # Digimonix - Digital World Explorer
+link youtube : https://youtu.be/jIyp59A5-zk?si=MGMJPFEuIBh8-lYa
 
 Aplikasi Android untuk eksplorasi data Digimon dari Digi-API yang dikembangkan menggunakan Kotlin, Jetpack Compose, Material Design 3, Navigation, dan arsitektur MVVM.
 
